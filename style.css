@@ -1,0 +1,27 @@
+.column:first-child{
+    display:flex;
+  }
+
+.column label {
+    padding-top:5px;
+}
+.column select{
+    width:70%;
+    margin-left:20px;
+}
+
+.container{
+    padding-top: 20px;
+}
+h1{
+    color:blue;
+    font-family:sans-serif
+}
+
+body{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+#group-by{
+    font-size: 12pt;
+}
